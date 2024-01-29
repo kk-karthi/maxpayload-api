@@ -21,12 +21,12 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/large-response-generator.git
+   git clone https://github.com/kk-karthi/maxpayload-api.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd large-response-generator
+    cd maxpayload-api
 
 3. Install dependencies:
 
